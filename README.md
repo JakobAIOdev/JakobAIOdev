@@ -71,5 +71,3 @@ me.say_hi()
 </div>
 
 ###
-![](https://github-readme-streak-stats.herokuapp.com/?user=ileFixDev&theme=onedark&hide_border=true)<br/>
-<a href="https://wakatime.com/@d9d301fe-a098-42c1-a753-570d384757e4"><img src="https://wakatime.com/badge/user/d9d301fe-a098-42c1-a753-570d384757e4.svg"/></a>
