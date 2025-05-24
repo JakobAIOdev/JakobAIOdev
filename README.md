@@ -41,6 +41,10 @@ me.say_hi()
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
@@ -55,13 +59,17 @@ me.say_hi()
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
   <img width="12" />
+    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="php logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="php logo"  />
+  <img width="12" />
+    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="php logo"  />
+  <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
   <img width="12" />
