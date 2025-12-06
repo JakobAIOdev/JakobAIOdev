@@ -33,51 +33,29 @@ me.say_hi()
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="javascript logo"  />
-      <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=ts" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="javascript logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="javascript logo"  />
-    <img width="12" />
-    <img src="https://skillicons.dev/icons?i=react" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="selenium logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=bash" height="40" alt="php logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=linux" height="40" alt="php logo"  />
-  <img width="12" />
-    <img src="https://skillicons.dev/icons?i=docker" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=blender" height="40" alt="blender logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=unity" height="40" alt="unity logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="figma logo"  />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python" />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="Go" />
+  <img src="https://skillicons.dev/icons?i=ruby" height="40" alt="Ruby" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="TypeScript" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="Node.js" />
+  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="Next.js" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="React" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="CSS3" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML5" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="PHP" />
+  <img src="https://skillicons.dev/icons?i=symfony" height="40" alt="Symfony" />
+  <img src="https://skillicons.dev/icons?i=selenium" height="40" alt="Selenium" />
+  <img src="https://skillicons.dev/icons?i=cs" height="40" alt="C#" />
+  <img src="https://skillicons.dev/icons?i=dotnet" height="40" alt=".NET" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="PostgreSQL" />
+  <img src="https://skillicons.dev/icons?i=bash" height="40" alt="Bash" />
+  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="Linux" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="Docker" />
+  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="Postman" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="Photoshop" />
+  <img src="https://skillicons.dev/icons?i=figma" height="40" alt="Figma" />
 </div>
+
 
 ###
