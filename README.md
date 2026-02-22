@@ -10,6 +10,8 @@ Building high-performance web scrapers, monitoring tools & bots.
 &nbsp;&nbsp;
 [![GitHub](https://img.shields.io/badge/JakobAIOdev-000?style=flat-square&logo=github&logoColor=white)](https://github.com/JakobAIOdev)
 &nbsp;&nbsp;
+[![Discord](https://img.shields.io/badge/Discord-000?style=flat-square&logo=discord&logoColor=white)](https://discord.com/users/281588252765585419)
+&nbsp;&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=JakobAIOdev&style=flat-square&color=grey&label=visitors)
 
 </div>
