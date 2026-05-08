@@ -51,7 +51,7 @@ func main() {
 
 <img src="https://skillicons.dev/icons?i=go,ts,js,py,ruby,php,cs,bash&theme=dark" /><br/>
 <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,nodejs,dotnet,symfony&theme=dark" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,postgres,redis,linux,postman,selenium,figma,ps&theme=dark" />
+<img src="https://skillicons.dev/icons?i=docker,postgres,redis,linux,postman,selenium,figma,nest&theme=dark" />
 
 </div>
 
