@@ -14,6 +14,9 @@ Building high-performance web scrapers, monitoring tools & bots.
 &nbsp;&nbsp;
 ![Visitors](https://komarev.com/ghpvc/?username=JakobAIOdev&style=flat-square&color=grey&label=visitors)
 
+
+[![wakatime](https://wakatime.com/badge/user/d9d301fe-a098-42c1-a753-570d384757e4.svg)](https://wakatime.com/@d9d301fe-a098-42c1-a753-570d384757e4)
+
 </div>
 
 ```go
