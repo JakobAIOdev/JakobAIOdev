@@ -48,6 +48,13 @@ func main() {
 
 ###
 
+<h3 align="center">Weekly Coding Activity</h3>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+###
+
 <h3 align="center">Tech Stack</h3>
 
 <div align="center">
