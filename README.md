@@ -51,6 +51,70 @@ func main() {
 <h3 align="center">Weekly Coding Activity</h3>
 
 <!--START_SECTION:waka-->
+![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue?style=flat)
+
+**🐱 My GitHub Data** 
+
+> 📦 270.3 kB Used in GitHub's Storage 
+ > 
+> 🏆 732 Contributions in the Year 2026
+ > 
+> 🚫 Not Opted to Hire
+ > 
+> 📜 19 Public Repositories 
+ > 
+> 🔑 24 Private Repositories 
+ > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                116 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.81 % 
+🌆 Daytime                367 commits         ████████░░░░░░░░░░░░░░░░░   31.02 % 
+🌃 Evening                529 commits         ███████████░░░░░░░░░░░░░░   44.72 % 
+🌙 Night                  171 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.45 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Tuesday                  241 commits         █████░░░░░░░░░░░░░░░░░░░░   20.37 % 
+Wednesday                158 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
+Thursday                 144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Friday                   144 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.17 % 
+Saturday                 193 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.31 % 
+Sunday                   159 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.44 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               3 hrs 49 mins       ██████████████████████░░░   86.80 % 
+JSON                     14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.38 % 
+Go                       11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+Prisma                   4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.68 % 
+Markdown                 1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
+```
+
+**I Mostly Code in Python** 
+
+```text
+Go                       6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+JavaScript               6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.00 % 
+PHP                      5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.50 % 
+TypeScript               4 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   10.00 % 
+Ruby                     3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
+```
+
+
+
+**Timeline**
+
+![Lines of Code chart](https://raw.githubusercontent.com/JakobAIOdev/JakobAIOdev/main/assets/bar_graph.png)
+
+
+ Last Updated on 10/06/2026 09:16:06 UTC
 <!--END_SECTION:waka-->
 
 ###
