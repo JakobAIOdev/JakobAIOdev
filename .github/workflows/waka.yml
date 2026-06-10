@@ -35,7 +35,6 @@ jobs:
           SHOW_SHORT_INFO: "False"
 
           SHOW_UPDATED_DATE: "True"
-          UPDATED_DATE_FORMAT: "dd/MM/yyyy HH:mm:ss"
 
           SHOW_TOTAL_CODE_TIME: "False"
           SHOW_LANGUAGE_PER_REPO: "False"
