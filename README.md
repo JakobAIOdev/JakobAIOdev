@@ -51,8 +51,6 @@ func main() {
 <h3 align="center">Weekly Coding Activity</h3>
 
 <!--START_SECTION:waka-->
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-156%20hrs%203%20mins-blue?style=flat)
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -63,30 +61,6 @@ Markdown                 2 hrs 1 min         ███░░░░░░░░�
 Python                   1 hr 8 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.84 % 
 Diff                     1 hr 6 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 ```
-
-🤖 **AI Coding This Week** 
-
-```text
-⏱ AI Coding Time: 14 hrs 51 mins (75.69%)
-
-✍️ 17,419 lines written by AI, 1,188 lines written by hand (93.62% AI-written)
-
-🔤 259,798,909 Input Tokens, 1,126,122 Output Tokens
-
-💵 $1168.31 Estimated AI Cost This Week
-
-🧠 30 AI Sessions, 295 AI Prompts
-
-GPT                      17,960 lines        █████████████████████████   100.00 % 
-Codex-Cli                0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
-
-🔎 AI Coding Insights:
-🤖 AI-Driven — 93.62% of written lines came from AI
-📚 Verbose Prompter — average 7,621 characters per prompt
-🔁 Iterative Prompter — average 10 prompts per session
-🚀 High AI Trust — 10.19% of changed lines were hand-edited
-```
-
 
  Last Updated on 28/07/2026 00:29:53 UTC
 <!--END_SECTION:waka-->
