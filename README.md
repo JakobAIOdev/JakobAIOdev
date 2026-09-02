@@ -55,15 +55,15 @@ func main() {
 
 ```text
 💬 Programming Languages: 
-PHP                      11 hrs 14 mins      █████████░░░░░░░░░░░░░░░░   36.32 % 
-Twig                     5 hrs 17 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.09 % 
-Markdown                 2 hrs 26 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.91 % 
-Other                    2 hrs 13 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   07.19 % 
-.env file                1 hr 51 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
+PHP                      13 hrs 19 mins      ███████████░░░░░░░░░░░░░░   42.91 % 
+Twig                     4 hrs 29 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.44 % 
+.env file                3 hrs 20 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.76 % 
+Markdown                 2 hrs 54 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.38 % 
+YAML                     1 hr 27 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
 ```
 
 
- Last Updated on 01/09/2026 03:12:08 UTC
+ Last Updated on 02/09/2026 02:30:36 UTC
 <!--END_SECTION:waka-->
 
 ###
