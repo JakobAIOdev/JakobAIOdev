@@ -55,15 +55,15 @@ func main() {
 
 ```text
 💬 Programming Languages: 
-PHP                      9 hrs 51 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
-Go                       4 hrs 33 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.58 % 
-Markdown                 4 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.81 % 
-Twig                     3 hrs 49 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.21 % 
-YAML                     2 hrs 4 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.66 % 
+PHP                      9 hrs 19 mins       █████████░░░░░░░░░░░░░░░░   34.77 % 
+Markdown                 4 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Twig                     4 hrs 7 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
+Other                    2 hrs 1 min         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
+Go                       1 hr 47 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
 ```
 
 
- Last Updated on 22/09/2026 02:58:06 UTC
+ Last Updated on 23/09/2026 02:58:12 UTC
 <!--END_SECTION:waka-->
 
 ###
