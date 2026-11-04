@@ -51,8 +51,19 @@ func main() {
 <h3 align="center">Weekly Coding Activity</h3>
 
 <!--START_SECTION:waka-->
+📊 **This Week I Spent My Time On** 
 
- Last Updated on 03/11/2026 05:00:21 UTC
+```text
+💬 Programming Languages: 
+PHP                      9 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   33.59 % 
+Markdown                 5 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
+Twig                     3 hrs 38 mins       ███░░░░░░░░░░░░░░░░░░░░░░   12.74 % 
+Bash                     2 hrs 30 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   08.78 % 
+Other                    1 hr 22 mins        █░░░░░░░░░░░░░░░░░░░░░░░░   04.84 % 
+```
+
+
+ Last Updated on 04/11/2026 04:32:37 UTC
 <!--END_SECTION:waka-->
 
 ###
